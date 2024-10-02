@@ -15,4 +15,8 @@ public class StatusEffect : MonoBehaviour
     {
         
     }
+
+    //start of status effect list 
+
+    
 }
